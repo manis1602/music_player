@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_fastforward_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_fastforward_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about_us.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shuffle_white.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_shuffle_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shuffle_white.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_shuffle_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_rewind_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_rewind_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_loop_yellow.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_loop_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_drawer_header_icon.jpg.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable\\nav_drawer_header_icon.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_heart.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_heart.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_bg.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_heart_outline.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_heart_outline.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_custom_mainrecycler.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\row_custom_mainrecycler.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_settings.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_circle.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_circle.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_icon.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_home_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shuffle_white.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_shuffle_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_redirect.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_redirect.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_nav_drawer_header_icon.jpg.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\nav_drawer_header_icon.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_splash_screen_bg.jpg.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\splash_screen_bg.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about_us.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\fragment_about_us.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_play_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_play_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_now_playing_bg.jpg.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\now_playing_bg.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_icon.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_home_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_heart.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_heart.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_hearts_like_ours.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_hearts_like_ours.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drawer_shadow.9.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_circle.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_circle.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_icon.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_home_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_settings.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pause_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_pause_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shuffle_yellow.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_shuffle_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_sort.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_default_music.jpg.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\default_music.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_favorite_content_custom_row.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\favorite_content_custom_row.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_settings.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_favouritefragment.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\favouritefragment.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_play_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_play_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_icon_26.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_icon_26.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_icon_26.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_icon_26.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_icon_26.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_icon_26.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_play_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_play_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_sort.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_hearts_like_ours.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_hearts_like_ours.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_logo.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\logo.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drawer_shadow.9.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shuffle_yellow.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_shuffle_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_shield.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_shield.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_icon_26.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_icon_26.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_music_bar.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable\\default_music_bar.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_rewind_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_rewind_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_echo.jpg.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable\\icon_echo.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_heart.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_heart.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_heart_outline.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_heart_outline.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_loop_white.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_loop_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_now_playing_bg.jpg.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable\\now_playing_bg.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_fastforward_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_fastforward_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pause_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_pause_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drawer.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_circle.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_circle.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_icon_26.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_icon_26.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_hearts_like_ours.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_hearts_like_ours.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_about_us.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_shield.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_shield.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_heart_outline.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_heart_outline.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_joey.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable\\joey.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_icon.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_home_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_heart.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_heart.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pause_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_pause_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_settings.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_favourite.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\activity_favourite.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_loop_yellow.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_loop_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shuffle_yellow.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_shuffle_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_fastforward_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_fastforward_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_rewind_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_rewind_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_circle.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_circle.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_redirect.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_redirect.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_settings.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shuffle_yellow.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_shuffle_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_heart.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_heart.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shuffle_white.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_shuffle_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_us.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_loop_yellow.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_loop_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_rewind_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_rewind_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_redirect.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_redirect.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_screen_bg.jpg.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable\\splash_screen_bg.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_loop_yellow.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_loop_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_play_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shuffle_yellow.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_shuffle_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_shield.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_shield.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_sort.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drawer.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_loop_white.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_loop_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about_us.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_icon_echo.jpg.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-v21\\icon_echo.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rewind_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_rewind_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_loop_white.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_loop_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_fastforward_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fastforward_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pause_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pause_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_heart_outline.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_heart_outline.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\menu_song_playing_menu.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\menu\\song_playing_menu.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_circle.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_circle.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_shield.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_shield.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_hearts_like_ours.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_hearts_like_ours.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_sort.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_shield.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_shield.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_play_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_fastforward_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fastforward_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pause_button.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause_button.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_hearts_like_ours.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_hearts_like_ours.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_heart_outline.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_heart_outline.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_songplayingrightnow.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\fragment_songplayingrightnow.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_sort.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_sort.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_gradient.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_icon.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_icon.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_redirect.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\ic_redirect.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_loop_white.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_loop_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_custom_navigationdrawer.xml.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\layout\\row_custom_navigationdrawer.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_loop_yellow.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_loop_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_drawer.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_redirect.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_redirect.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shuffle_white.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-hdpi\\ic_shuffle_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_loop_white.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-mdpi\\ic_loop_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\Echo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about_us.png.flat",
+        "source": "F:\\AndroidProjects\\Echo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about_us.png"
+    }
+]
